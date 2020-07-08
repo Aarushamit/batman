@@ -14,7 +14,7 @@ var backGroundImg;
 
 
 function preload(){
-    backgroundImg = loadImage("bg.jpg");
+    backGroundImg = loadImage("bg.jpg");
     
     thunder1 = loadImage("i1 (1).png"); 
     thunder2 = loadImage("i1 (2).png");   
